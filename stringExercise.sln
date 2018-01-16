@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverceString", "ConsoleApp9\ReverceString.csproj", "{C3E6D053-2C27-4791-87E8-A0D6A44999F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Substring Occurrences", "ConsoleApp1\Count Substring Occurrences.csproj", "{3A838E2B-7F13-4838-8B37-708082C15430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanWords", "ConsoleApp2\BanWords.csproj", "{B02D3002-3C66-45A7-90F5-F97B2B1BE24B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromes", "Palindromes\Palindromes.csproj", "{9011C1EE-4E54-4AB5-B41E-207824CA22AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E6D053-2C27-4791-87E8-A0D6A44999F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E6D053-2C27-4791-87E8-A0D6A44999F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E6D053-2C27-4791-87E8-A0D6A44999F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E6D053-2C27-4791-87E8-A0D6A44999F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A838E2B-7F13-4838-8B37-708082C15430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A838E2B-7F13-4838-8B37-708082C15430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A838E2B-7F13-4838-8B37-708082C15430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A838E2B-7F13-4838-8B37-708082C15430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B02D3002-3C66-45A7-90F5-F97B2B1BE24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02D3002-3C66-45A7-90F5-F97B2B1BE24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02D3002-3C66-45A7-90F5-F97B2B1BE24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02D3002-3C66-45A7-90F5-F97B2B1BE24B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9011C1EE-4E54-4AB5-B41E-207824CA22AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9011C1EE-4E54-4AB5-B41E-207824CA22AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9011C1EE-4E54-4AB5-B41E-207824CA22AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9011C1EE-4E54-4AB5-B41E-207824CA22AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
